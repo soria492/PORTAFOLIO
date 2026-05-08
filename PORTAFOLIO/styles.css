@@ -1,0 +1,25 @@
+
+
+body{
+
+    background-color: black;
+    padding-top: 70px;
+}
+
+h1 {
+
+    color: black;
+    text-align: center;
+}
+
+.card{
+    color: aliceblue;
+    background-color: black;
+    border:2px solid #ffff;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+.card img{
+     height: 200px; /* controla la parte superior */
+     object-fit: cover; /* evita deformaciones */
+
+}
